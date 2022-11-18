@@ -1,0 +1,48 @@
+              <div class="product-item">
+                    <img src="images/work2.jpg" class="product-item-img" alt="image">
+                    <div class="product-item-desc">
+                        <h2> Camera </h2>
+                        <p> Lorem ipsum dolor sit amet. </p>
+                        <span> Size : large </span>
+                    </div>
+                    <div class="product-item-actions">
+                        <button class="add-to-cart" onclick="addtocart()"> add to cart </button>
+                        <i class="favorite fa-solid fa-cart-plus"></i>
+                    </div>
+                </div>
+                <div class="product-item">
+                    <img src="images/work3.jpg" class="product-item-img" alt="image">
+                    <div class="product-item-desc">
+                        <h2> Camera </h2>
+                        <p> Lorem ipsum dolor sit amet. </p>
+                        <span> Size : large </span>
+                    </div>
+                    <div class="product-item-actions">
+                        <button class="add-to-cart" onclick="addtocart()"> add to cart </button>
+                        <i class="favorite fa-solid fa-cart-plus"></i>
+                    </div>
+                </div>
+                <div class="product-item">
+                    <img src="images/work4.jpg" class="product-item-img" alt="image">
+                    <div class="product-item-desc">
+                        <h2> Camera </h2>
+                        <p> Lorem ipsum dolor sit amet. </p>
+                        <span> Size : large </span>
+                    </div>
+                    <div class="product-item-actions">
+                        <button class="add-to-cart" onclick="addtocart()"> add to cart </button>
+                        <i class="favorite fa-solid fa-cart-plus"></i>
+                    </div>
+                </div>
+                <div class="product-item">
+                    <img src="images/work5.jpg" class="product-item-img" alt="image">
+                    <div class="product-item-desc">
+                        <h2> Camera </h2>
+                        <p> Lorem ipsum dolor sit amet. </p>
+                        <span> Size : large </span>
+                    </div>
+                    <div class="product-item-actions">
+                        <button class="add-to-cart" onclick="addtocart()"> add to cart </button>
+                        <i class="favorite fa-solid fa-cart-plus"></i>
+                    </div>
+                </div>
